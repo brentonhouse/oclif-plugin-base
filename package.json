@@ -1,0 +1,30 @@
+{
+	"name": "oclif-plugin-base",
+	"version": "0.0.1",
+	"author": {
+		"name": "Brenton House",
+		"email": "brenton.house@gmail.com",
+		"url": "https://brenton.house"
+	},
+	"bugs": "https://github.com/brentonhouse/oclif-plugin-base/issues",
+	"dependencies": {
+		"@oclif/command": "^1.5.10",
+		"@oclif/config": "^1.12.8",
+		"lodash": "^4.17.11"
+	},
+	"devDependencies": {
+		"@geek/eslint-config": "0.0.2",
+		"eslint-plugin-import": "^2.16.0"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"main": "./lib/index.js",
+	"homepage": "https://github.com/brentonhouse/oclif-plugin-base",
+	"keywords": [
+		"oclif-plugin"
+	],
+	"license": "MIT",
+	"repository": "brentonhouse/oclif-plugin-base",
+	"scripts": {}
+}
