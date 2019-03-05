@@ -1,6 +1,7 @@
 {
 	"name": "oclif-plugin-base",
-	"version": "0.0.2",
+	"description": "Base oclif plugin for Geek Mobile Toolkit",
+	"version": "0.0.3",
 	"author": {
 		"name": "Brenton House",
 		"email": "brenton.house@gmail.com",
